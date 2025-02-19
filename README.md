@@ -4,8 +4,8 @@
 4. Run `./myapp ../hello/hello.o`
 5. Debug it `b 0x1161` `c` `registers dump`
 
-Todo:
+todo:
 
-- [ ] figure out how to not use dwarf4
+- [ ] figure out how to not use dwarf4 (this library i'm using is causing a bunch of errors)
 - [ ] fix the weird error on starting up the program
 - [ ] inline and member functions
